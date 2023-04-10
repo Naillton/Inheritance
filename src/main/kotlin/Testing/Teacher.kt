@@ -1,3 +1,7 @@
+package Testing
+
+import Testing.Person
+
 // implementando os metodos e atributos da classe pai na classe filha
 // note que nao utilizamos nenhum modificador de acesso ou declaracao de val ou var no construtor da classe filha
 // nem na classe pai

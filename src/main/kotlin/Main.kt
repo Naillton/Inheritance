@@ -1,3 +1,8 @@
+import Testing.BusinessMan
+import Testing.Person
+import Testing.Player
+import Testing.Teacher
+
 //Apos instanciar as nossas classes filhas o init ja e chamado nos devolvendo o nome e a idade das pessoas
 //faca o teste e comente as chamadas dos metodos
 fun main() {
